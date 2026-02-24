@@ -39,4 +39,4 @@ The project follows a modular "Pipeline" approach to ensure reproducibility and 
 ---
 
 ## 📫 Contact
-**Cesdata** - [Insert your LinkedIn Profile Link Here]
+**Cesdata** - [(https://www.linkedin.com/in/cesar-alm/)]
